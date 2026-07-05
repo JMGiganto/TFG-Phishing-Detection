@@ -3,7 +3,7 @@
 **Trabajo Fin de Grado — Grado en Ingeniería Informática**  
 **Universidad de Alicante — Escuela Politécnica Superior**  
 **Autor:** José Manuel Martínez Giganto  
-**Tutora:** Dra. Patricia Compañ Rosique  
+**Tutora:** Patricia Compañ Rosique  
 **Curso:** 2025-2026  
 
 ---
