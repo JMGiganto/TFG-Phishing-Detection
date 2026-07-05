@@ -63,7 +63,7 @@ Fuente: [Phishing Email Curated Datasets](https://zenodo.org/records/15882)
 
 1. Abre el notebook en Google Colab haciendo clic en el badge:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TFG-Phishing-Detection/blob/main/TFG_Phishing_JoseManuel_Martinez_Giganto.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JMGiganto/TFG-Phishing-Detection/blob/main/TFG_Phishing_JoseManuel_Martinez_Giganto.ipynb)
 
 2. Ejecuta las celdas en orden.
 3. Los modelos entrenados se guardan automáticamente en Google Drive.
